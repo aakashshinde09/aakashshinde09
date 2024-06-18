@@ -33,6 +33,8 @@ I would love to connect and discuss how I can support your organization. Feel fr
 
 📧 [saakashs1999@gmail.com](mailto:saakashs1999@gmail.com)
 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/akash-shinde-62b2a0221/) 
+
 Looking forward to connecting and exploring potential opportunities! 😊
 
 <!---

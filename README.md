@@ -31,8 +31,6 @@ I am committed to continuous learning and staying current with the latest DevOps
 
 I would love to connect and discuss how I can support your organization. Feel free to reach out to me at:
 
-📧 [saakashs1999@gmail.com](mailto:saakashs1999@gmail.com)
-
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shinde-aakash/) 
 
 Looking forward to connecting and exploring potential opportunities! 😊

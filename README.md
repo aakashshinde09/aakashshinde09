@@ -1,41 +1,139 @@
-### Hello, I'm *Akash Shinde*
+# 👋 Hello, I'm **Akash Shinde**
 
-I am a dedicated DevOps enthusiast with extensive hands-on experience in cloud platforms and CI/CD tools. My expertise lies in AWS, along with key DevOps technologies such as Git, Docker, Kubernetes, Terraform, and Jenkins. My ambition is to streamline development processes and enhance deployment efficiency, aspiring to grow as a DevOps Engineer.
+I'm a **DevOps Engineer** with 1.7+ years of hands-on experience in cloud infrastructure, CI/CD automation, containerized deployments, and production systems.
 
-### 🔑 Key Skills and Experience:
+My experience includes working with **AWS, Azure, DigitalOcean, and Hetzner**, with a strong focus on automation, reliability, scalability, security, and cloud cost optimization.
 
-- **Cloud Platforms:** Practical experience in setting up and managing AWS infrastructure.
-- **CI/CD Tools:** Skilled in configuring and managing CI/CD pipelines with Jenkins and Git.
-- **Containerization:** Proficient in creating, deploying, and managing containers using Docker.
-- **Orchestration:** Experienced in Kubernetes for container orchestration and management.
-- **Infrastructure as Code (IaC):** Competent in automating infrastructure provisioning with Terraform.
-- **Version Control:** Expert in using Git for version control and collaborative development.
+---
 
-### 🏆 Projects and Achievements:
+## 🔑 Key Skills and Experience
 
-- **Automated Deployment Pipeline:** Developed a CI/CD pipeline using Jenkins, Docker, and Git, reducing deployment times significantly.
-- **Containerized Applications:** Successfully containerized various applications with Docker and orchestrated them using Kubernetes.
-- **Infrastructure Automation:** Automated AWS infrastructure provisioning with Terraform, ensuring consistency and scalability.
+* **☁️ Cloud Platforms:** AWS, Azure, DigitalOcean, Hetzner
+* **🚀 CI/CD:** GitHub Actions, AWS CodePipeline, Coolify
+* **🐳 Containerization:** Docker, Docker Compose
+* **☸️ Orchestration:** Kubernetes, MicroK8s
+* **📊 Monitoring:** Prometheus, Grafana
+* **🏗️ Infrastructure:** Nginx, Apache2, DNS, Reverse Proxy
+* **🔐 Security:** IAM, SSL/Let's Encrypt, CSP, Secrets Management
+* **🖥️ Operating Systems:** Amazon Linux, Ubuntu, CentOS
+* **⚙️ Scripting:** Shell Scripting
+* **🔀 Version Control:** Git, GitHub, GitLab
 
-### 💡 My Approach:
+---
 
-I am committed to continuous learning and staying current with the latest DevOps trends and best practices. I excel in collaborative environments and am passionate about solving complex problems with innovative solutions. My practical experience has honed my skills in efficiently managing and automating development workflows, ensuring high-quality software delivery.
+## 💼 Professional Experience
 
-### 🎯 Goals:
+### DevOps Engineer — Perimattic Pvt. Ltd.
 
-- Join a dynamic team to contribute to building and maintaining robust, scalable, and efficient DevOps pipelines.
-- Continuously enhance my skills and knowledge in cloud computing, automation, and DevOps best practices.
-- Drive improvements in software development and deployment processes, contributing to organizational success.
+**Mumbai, Maharashtra | Nov 2024 – Jun 2026**
 
-## Let's Connect 🤝
+* Managed end-to-end DevOps operations across **AWS, Azure, DigitalOcean, and Hetzner**.
+* Designed and implemented **multi-region disaster recovery architecture** to improve system availability and fault tolerance.
+* Achieved **$5,000+ monthly cloud cost savings** through resource right-sizing, workload optimization, and efficient architecture design.
+* Built and published **30+ AWS Marketplace AMIs** for product distribution.
+* Created and managed **100+ CI/CD pipelines** using GitHub Actions, AWS CodePipeline, and Coolify.
+* Upgraded **30+ production databases** using blue-green deployment with less than 1 minute of downtime and zero data loss.
+* Migrated **12+ websites from Plesk to MicroK8s**, improving performance, scalability, and resource utilization.
+* Deployed **12+ frontend and analytics applications on Vercel**.
+* Re-architected and stabilized malformed infrastructure setups, reducing recurring downtime.
+* Patched and upgraded **20+ servers** to resolve vulnerabilities and strengthen system security.
+* Implemented **Content Security Policy (CSP)** and hardened application configurations.
+* Automated SSL certificate management using **Let's Encrypt**.
+* Configured DNS, reverse proxy, and subdomain-based routing for **dev/stage/prod environments**.
+* Handled critical production incidents and infrastructure migrations with zero data loss.
 
-I would love to connect and discuss how I can support your organization. Feel free to reach out to me at:
+---
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/shinde-aakash/) 
+## 🏆 Projects and Achievements
 
-Looking forward to connecting and exploring potential opportunities! 😊
+### 🌍 Multi-Region Disaster Recovery System
 
-<!---
-aakashshinde09/aakashshinde09 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Designed failover architecture across multiple cloud regions.
+* Implemented cloud-native disaster recovery solutions.
+* Improved high availability and fault tolerance.
+* Focused on minimizing recovery time during infrastructure outages.
+
+### 🚀 CI/CD Automation at Scale
+
+* Built and managed **100+ CI/CD pipelines** across multiple applications and teams.
+* Automated application build and deployment workflows.
+* Reduced deployment time and eliminated manual release errors.
+* Improved deployment consistency and reliability.
+
+### ☸️ Kubernetes Migration — MicroK8s
+
+* Migrated **12+ websites from Plesk to MicroK8s**.
+* Containerized legacy workloads.
+* Improved resource utilization and deployment consistency.
+* Introduced Kubernetes-based infrastructure management.
+
+### 💰 Cloud Cost Optimization
+
+* Identified inefficient cloud resources and workloads.
+* Implemented resource right-sizing and infrastructure optimization.
+* Achieved **$5,000+ in monthly cloud cost savings** without impacting performance.
+
+---
+
+## 📊 Key Achievements
+
+| Achievement                        |                        Result |
+| ---------------------------------- | ----------------------------: |
+| 💰 Cloud Cost Optimization         |   **$5,000+ monthly savings** |
+| 🚀 CI/CD Pipelines                 |            **100+ pipelines** |
+| 🗄️ Production Databases Upgraded  |                       **30+** |
+| 📦 AWS Marketplace AMIs            |             **30+ published** |
+| ☸️ Websites Migrated to Kubernetes |                       **12+** |
+| 🌍 Disaster Recovery               | **Multi-region architecture** |
+
+---
+
+## 💡 My Approach
+
+I believe effective DevOps is about building infrastructure that is:
+
+* ⚡ Automated
+* 🔒 Secure
+* 📈 Scalable
+* 💰 Cost-efficient
+* 🛡️ Highly available
+* 🔄 Reliable and reproducible
+
+I enjoy solving complex infrastructure problems, automating repetitive processes, troubleshooting production issues, and continuously improving system reliability.
+
+---
+
+## 🎯 Goals
+
+* Continue growing as a **Cloud / DevOps Engineer**.
+* Design and manage scalable cloud infrastructure.
+* Improve CI/CD automation and deployment reliability.
+* Build highly available and disaster-resilient systems.
+* Strengthen my expertise in Kubernetes and cloud-native technologies.
+* Optimize cloud infrastructure for performance, reliability, and cost.
+* Continuously learn and adopt modern DevOps practices.
+
+---
+
+## 📚 Education
+
+**Post Graduate Diploma in Advanced Computing (CDAC)**
+CDAC, Noida
+
+**Bachelor of Engineering — Mechanical Engineering**
+PRMIT&R, Badnera, Amravati
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with fellow engineers, recruiters, and organizations working on interesting **Cloud and DevOps** challenges.
+
+**LinkedIn:** [linkedin.com/in/shinde-aakash](https://linkedin.com/in/shinde-aakash)
+
+**Email:** [shinde.aakash@outlook.com](mailto:shinde.aakash@outlook.com)
+
+---
+
+### ⚡ Build. Automate. Secure. Scale.
+

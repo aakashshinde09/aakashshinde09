@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Akash Shinde**
 
-I'm a **DevOps Engineer** with 1.7+ years of hands-on experience in cloud infrastructure, CI/CD automation, containerized deployments, and production systems.
+I'm a **DevOps Engineer** with 3+ years of hands-on experience in cloud infrastructure, CI/CD automation, containerized deployments, and production systems.
 
 My experience includes working with **AWS, Azure, DigitalOcean, and Hetzner**, with a strong focus on automation, reliability, scalability, security, and cloud cost optimization.
 
